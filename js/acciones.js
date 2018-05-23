@@ -16,7 +16,7 @@ $(document).ready(function(e) {
 				  navigator.notification.vibrate(3000); //vibra el dispositivo
 				  break;
 				}
-			}, "aplicacion7", "Beepear", "Vibrar", "Cancelar");
+			}, "aplicacion7", "Beepear, Vibrar, Cancelar");
 			});
 		},false);
 });
